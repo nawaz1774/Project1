@@ -1,0 +1,16 @@
+https://docs.python.org/2/ -- To understand Python Syntax
+
+http://stackoverflow.com/ -- Code Refrence
+
+https://www.khanacademy.org/ -- Understanding Matrix Multiplication
+
+http://pandas.pydata.org/pandas-docs/stable/tutorials.html -- To get understanding of Pandas Data Frames and Series
+
+https://www.youtube.com/watch?v=eRpFC2CKvao -- To get understanding of Pandas Data Frames and Series
+
+http://ggplot.yhathq.com/ -- Documentation for ggplot Library
+
+https://www.udacity.com/course/ud304 -- Intro to HTML and CSS. Built the web page to submit the project.
+
+https://www.udacity.com/course/ud201 -- Intro to Inferential Statistics. Used this course to refrsh my memory on Hypothesis testing and Linear Regressions.
+

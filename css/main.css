@@ -1,0 +1,19 @@
+.heading{
+	text-align: center;
+}
+
+.heading hr{
+	border: none;
+	height: 5px;
+	background-color: #333;
+}
+
+.q11, .q12, .q13, .q14, .q21, .q22, .q23, .q24,
+.q25, .q26, .q30, .q31, .q32, .q41, .q42, .q51{
+	font-style: italic;
+	font-weight: bold;
+}
+
+.ah{
+	text-decoration: underline;
+}
